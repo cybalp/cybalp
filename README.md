@@ -51,7 +51,7 @@
       <tr>
         <td>
           <a href="https://github.com/cybalp/AttackDetector">
-            <strong>🛡️ AttackDetector</strong>
+            <strong>AttackDetector</strong>
           </a>
         </td>
         <td>A modular Intrusion Detection System (IDS) with a rule engine for real-time network threat detection.</td>
@@ -59,7 +59,7 @@
       <tr>
         <td>
           <a href="https://github.com/cybalp/cybalp.github.io">
-            <strong>🌐 cybalp.me</strong>
+            <strong>cybalp.me</strong>
           </a>
         </td>
         <td>A non-professional blog. Personal documentation and a graveyard of personal thoughts.</td>
